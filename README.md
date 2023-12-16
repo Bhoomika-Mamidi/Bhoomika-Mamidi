@@ -26,7 +26,7 @@ Welcome to my GitHub portfolio! I'm Bhoomika, a passionate Software Devloper wit
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/bhoomika-mamidi/))
+- [LinkedIn](https://www.linkedin.com/in/bhoomika-mamidi/)
 - [Portfolio Website](https://bhoomika-mamidi.github.io/)
 
 ## 📚 Education
